@@ -1,0 +1,12 @@
+soap
+towel
+mopper
+bloom
+wiper
+detergent
+
+
+
+
+
+
