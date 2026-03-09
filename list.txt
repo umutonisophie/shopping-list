@@ -1,8 +1,9 @@
-biscuits
-cokies
-sambusa
-chapati
-mandazi
+soap
+towel
+mopper
+bloom
+wiper
+detergent
 
 
 
